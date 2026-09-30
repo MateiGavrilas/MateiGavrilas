@@ -1,7 +1,7 @@
 Software Engineer in Amsterdam. Founding Engineer at DOEdeal!, the platform for discovering activities and planning them with your group.
 Focused on backend systems and CI/CD.
 
-### DOEdeal
+### DOEdeal!
 
 An app for finding activities in Amsterdam and planning them with your group.
 
