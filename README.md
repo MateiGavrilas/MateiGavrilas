@@ -1,25 +1,24 @@
-**Founding Engineer at [DOEdeal](https://www.doedeal.nl)** · Amsterdam
-
-I build products end to end: mobile, web and backend.
+Software Engineer in Amsterdam. Founding Engineer at DOEdeal!, the platform for discovering activities and planning them with your group.
+Focused on backend systems and CI/CD.
 
 ### DOEdeal
 
-Find activities in Amsterdam, plan them with your group, and book in the app. I've built it from the first MVP to a live platform and lead all engineering.
+An app for finding activities in Amsterdam and planning them with your group.
 
 [![App Store](https://img.shields.io/badge/App_Store-live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/nl/app/doedeal/id6737568827)
 [![Website](https://img.shields.io/badge/Website-doedeal.nl-111111?style=flat-square)](https://www.doedeal.nl)
 
-| Part | Built with |
-|---|---|
-| Mobile | React Native, Expo |
-| Web | Next.js |
-| Backend | Firebase (Firestore, Cloud Functions, Auth), Google Cloud |
-| Payments | Stripe |
-| Search Engine | Typesense |
+- Designed and built the mobile app, web app and backend
+- Built the booking, scheduling and ticketing system utilizing Stripe
+- Set up the CI/CD pipeline for automated builds and app store releases
+- Built an isolated, production-mirroring dev environment with sanitized data and automated weekly syncs
 
-### What I enjoy building
+The code is private.
 
-Backend systems and CI/CD.
+### Tech
 
+[![Tech](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,firebase,gcp,docker,vercel,githubactions)](https://skillicons.dev)
 
-[LinkedIn](https://www.linkedin.com/in/matei-gavrilas5) · matei@doedeal.nl
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/matei-gavrilas5) · matei.gavrilas5@gmail.com
