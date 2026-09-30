@@ -12,9 +12,9 @@ Find activities in Amsterdam, plan them with your group, and book in the app. I'
 | Part | Built with |
 |---|---|
 | Mobile | React Native, Expo |
-| Web | Next.js on Vercel |
+| Web | Next.js |
 | Backend | Firebase (Firestore, Cloud Functions, Auth), Google Cloud |
-| Payments | Stripe Connect |
+| Payments | Stripe |
 | Search Engine | Typesense |
 
 ### What I enjoy building
